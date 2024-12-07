@@ -3,14 +3,18 @@
     <p style="color: #666;">Team 5: Xinmi Wang & Yue Zhang</p>
 </div>
 
+<nav style="background-color: #444; color: white; padding: 10px; text-align: center;">
+    <a href="#videos" style="color: white; text-decoration: none; margin: 0 10px;">Videos</a>
+    <a href="#images" style="color: white; text-decoration: none; margin: 0 10px;">Images</a>
+    <a href="#requirements" style="color: white; text-decoration: none; margin: 0 10px;">Requirements</a>
+    <a href="#results" style="color: white; text-decoration: none; margin: 0 10px;">Results</a>
+    <a href="#conclusion" style="color: white; text-decoration: none; margin: 0 10px;">Conclusion</a>
+</nav>
 
 ---
-title: Welcome to Team5's Report
+title: Welcome to Team5-Hello-AVR's Report
 ---
-
-# Hello-AVR-Team5 - Smart Room System
-
-## Final Project Report
+## Final Project Report: Smart Room System
 
 **Team Number:** 5
 
