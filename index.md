@@ -136,7 +136,7 @@ This software system is designed to enable the seamless operation of a smart bed
 - Users
 The primary users are individuals seeking enhanced comfort and convenience in their bedroom environment. This includes students, professionals, and families looking to automate and optimize daily routines such as waking up, sleeping, and monitoring environmental conditions.
 
-#### 3.1 Software Requirements Specification (SRS)
+### 3.1 Software Requirements Specification (SRS)
 
 *3.1.1. Definition*
 
@@ -166,7 +166,7 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 - SRS 06 - The system shall debounce ADC values of pressure sensor over 5 or 10 consecutive samples to eliminate noise and stabilize input readings.
 
-#### 3.2 Hardware Requirements Specification (HRS)
+### 3.2 Hardware Requirements Specification (HRS)
 
 *3.2.1. Definition*
 
