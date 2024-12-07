@@ -48,7 +48,7 @@ title: Welcome to Team5-Hello-AVR's Report
 
 *This is code for wireless motor control: [part2Code](/Part2/final_pro.c)*
 
-### 2. Images
+### 2. <a id="images"></a>Images
 
 1.Components:
 
@@ -103,7 +103,7 @@ Motor (Output 3):
 
 ![module](/images/connection.jpg)
 
-### 3.  Requirements Specification 
+### 3. <a id="requirements"></a>Requirement Specifications 
 
 1. Overview
 This software system is designed to enable the seamless operation of a smart bedroom automation system. It integrates features such as real-time clock display, flexible countdown timers, environmental data monitoring, automated MP3 playback, and wireless motor control. The software emphasizes modularity, ensuring efficient interaction between sensors, actuators, and the ATmega328PB microcontroller to provide a reliable and user-friendly experience.
@@ -177,7 +177,7 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 - HRS 06 - The esp32 feather should be able to allow the app to wirelessly control the spinnining state of the servo motor with acceptable delay.
 
-### 4. Results
+### 4. <a id="results"></a>Results
 
 #### 4.1 Software Requirements Specification (SRS) Results
 
@@ -207,7 +207,7 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 - HRS 07 - The ESP32 feather allows the app to wirelessly control the spinnining state of the servo motor with 1s delay.
 
-### 5. Conclusion: Smart Bedroom Automation System
+### 5. <a id="conclusion"></a>Conclusion: Smart Bedroom Automation System
 
 **Project Overview Success:** Our smart bedroom automation system successfully integrated multiple components using two ATmega328PB microcontrollers to create a comprehensive solution for bedroom automation. The system effectively combines real-time clock functionality, environmental monitoring, pressure-sensitive music control, and wireless light switch automation, meeting all initial requirements specified in both our Software (SRS) and Hardware (HRS) specifications.
 
