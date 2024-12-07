@@ -1,3 +1,36 @@
+<style>
+  body {
+      background-color: #f0f8ff; /* 浅蓝色背景 */
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+  }
+  .content {
+      background-color: #ffffff; /* 白色内容区域 */
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  h1 {
+      font-size: 36px;
+      color: #333333;
+      text-align: center;
+  }
+  p {
+      font-size: 18px;
+      color: #666666;
+      text-align: center;
+  }
+</style>
+
+<div class="content">
+    <h1>Smart Room System</h1>
+    <p>Team 5: Xinmi Wang & Yue Zhang</p>
+</div>
+
 <div style="background-color: #e0f7fa; padding: 30px; border-radius: 8px; text-align: center;">
     <h1 style="color: #00796b; font-size: 36px;">Smart Room System</h1>
     <p style="color: #004d40; font-size: 20px;">Team 5: Xinmi Wang & Yue Zhang</p>
