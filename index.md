@@ -24,7 +24,7 @@
   }
 </style>
 
-<div style="background-color: #e0f7fa; padding: 30px; border-radius: 8px; text-align: center; margin-bottom: 20px;">
+<div style="background-color: #e0f7fa; padding: 30px; border-radius: 8px; text-align: center; margin-bottom: 40px;">
     <h1 style="color: #00796b; font-size: 36px;">Smart Room System</h1>
     <p style="color: #004d40; font-size: 20px;">Team 5: Xinmi Wang & Yue Zhang</p>
 </div>
@@ -38,13 +38,11 @@
     <a href="#conclusion" style="color: white; text-decoration: none; margin: 0 10px;">Conclusion</a>
 </nav>
 
-## Smart Room System
-
 **Team Number:** 5
 
 **Team Members:** Xinmi Wang, Yue Zhang
 
-**Github Repository URL:** https://github.com/upenn-embedded/final-project-hello-avr.git
+**GitHub Repository URL:** [GitHub Repository](https://github.com/upenn-embedded/final-project-hello-avr.git)
 
 **Description of hardware:** ATmega328PB, ESP32, DFPlayer Mini MP3, DHT11 (Temperature & Humidity Sensor), Pressure sensor, DS1307 (RTC), SG92 motor, LCD, Button, Speaker
 
