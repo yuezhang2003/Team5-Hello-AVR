@@ -3,6 +3,18 @@
     <p style="color: #666;">Team 5: Xinmi Wang & Yue Zhang</p>
 </div>
 
+<div style="background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <h2>Final Demo Video</h2>
+    <a href="https://drive.google.com/file/d/1vn5B683b3LDdRKbWDvhb38bbrMS9ZKrc/view?usp=sharing">Watch Final Demo</a>
+</div>
+
+<div style="background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <h2>Components</h2>
+    <img src="/images/ATmega.jpg" alt="ATmega328PB" style="max-width: 100%; border-radius: 8px;">
+    <p>The ATmega328PB is the main microcontroller used in this project...</p>
+</div>
+
+
 <nav style="background-color: #444; color: white; padding: 10px; text-align: center;">
     <a href="#videos" style="color: white; text-decoration: none; margin: 0 10px;">Videos</a>
     <a href="#images" style="color: white; text-decoration: none; margin: 0 10px;">Images</a>
@@ -10,48 +22,6 @@
     <a href="#results" style="color: white; text-decoration: none; margin: 0 10px;">Results</a>
     <a href="#conclusion" style="color: white; text-decoration: none; margin: 0 10px;">Conclusion</a>
 </nav>
-
-<style>
-  body {
-      background-color: #f9f9f9;
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-  }
-  header {
-      background: #333;
-      color: white;
-      padding: 10px 20px;
-      text-align: center;
-  }
-  .container {
-      margin: 20px auto;
-      padding: 20px;
-      max-width: 800px;
-      background: white;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      border-radius: 10px;
-  }
-  footer {
-      text-align: center;
-      margin-top: 20px;
-      padding: 10px;
-      background: #333;
-      color: white;
-  }
-</style>
-
-
-<header>
-    <h1>Smart Room Automation</h1>
-    <p>Team 5: Xinmi Wang & Yue Zhang</p>
-</header>
-<div class="container">
-    <h2>Final Project Report</h2>
-    <p>Welcome to our smart bedroom automation system project!</p>
-</div>
-<footer>
-    <p>&copy; 2024 Hello-AVR-Team5</p>
-</footer>
 
 
 ---
