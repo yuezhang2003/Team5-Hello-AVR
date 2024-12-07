@@ -1,5 +1,7 @@
-
-
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; text-align: center;">
+    <h1 style="color: #333;">Smart Room Automation</h1>
+    <p style="color: #666;">Team 5: Xinmi Wang & Yue Zhang</p>
+</div>
 
 <nav style="background-color: #444; color: white; padding: 10px; text-align: center;">
     <a href="#videos" style="color: white; text-decoration: none; margin: 0 10px;">Videos</a>
@@ -8,7 +10,6 @@
     <a href="#results" style="color: white; text-decoration: none; margin: 0 10px;">Results</a>
     <a href="#conclusion" style="color: white; text-decoration: none; margin: 0 10px;">Conclusion</a>
 </nav>
-
 
 ---
 title: Welcome to Team5-Hello-AVR's Report
