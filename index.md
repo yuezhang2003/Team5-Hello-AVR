@@ -1,5 +1,5 @@
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; text-align: center;">
-    <h1 style="color: #333;">Smart Room Automation</h1>
+    <h1 style="color: #333;">Smart Room System</h1>
     <p style="color: #666;">Team 5: Xinmi Wang & Yue Zhang</p>
 </div>
 
