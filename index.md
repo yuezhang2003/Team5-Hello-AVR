@@ -1,7 +1,4 @@
-<div style="background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <h2>Final Demo Video</h2>
-    <a href="https://drive.google.com/file/d/1vn5B683b3LDdRKbWDvhb38bbrMS9ZKrc/view?usp=sharing">Watch Final Demo</a>
-</div>
+
 
 <div style="background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <h2>Components</h2>
@@ -35,7 +32,10 @@ title: Welcome to Team5-Hello-AVR's Report
 
 ### 1. <a id="videos"></a>Videos
 
-[Final Demo Video](https://drive.google.com/file/d/1vn5B683b3LDdRKbWDvhb38bbrMS9ZKrc/view?usp=sharing)
+<div style="background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <h2>Final Demo Video</h2>
+    <a href="https://drive.google.com/file/d/1vn5B683b3LDdRKbWDvhb38bbrMS9ZKrc/view?usp=sharing">Watch Final Demo</a>
+</div>
 
 *Component Introdunction and Subsystem showcase (from MVP demo Section):*
 
