@@ -204,7 +204,7 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 ### 4. <a id="results"></a>Results
 
-#### 4.1 Software Requirements Specification (SRS) Results
+### 4.1 Software Requirements Specification (SRS) Results
 
 - SRS 01 - The countdown timer successfully decrement the time every second, the naked eye can't tell the difference from a cell phone's countdown timer.
 
@@ -218,7 +218,7 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 - SRS 06 - The system successfully debounce ADC values of pressure sensor over 10 consecutive samples to eliminate noise and stabilize input readings.
 
-#### 4.2 Hardware Requirements Specification (HRS) Results
+### 4.2 Hardware Requirements Specification (HRS) Results
 
 - HRS 01 - A DHT11 temperature and humidity sensor measured temperature in the room is usually from range of 20-30°C and the measured humidity range is from 15% to 20% at K-lab. If manually apply water mist to the senor, the humidity could reach 93%. Because we lack tools to measure the exact temperature and humidity and focusing on that the  temperature and humidity displayed in LCD is reasonable. 
 
