@@ -1,13 +1,13 @@
 <style>
   body {
-      background-color: #d7e8ec; /* 背景 */
+      background-color: #d7e8ec; /* background */
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 0;
       padding: 0;
   }
   .content {
-      background-color: #ffffff; /* 内容区域 */
+      background-color: #ffffff; /* content area */
       max-width: 900px;
       margin: 20px auto;
       padding: 20px;
@@ -16,11 +16,11 @@
   }
   h1 {
       font-size: 36px;
-      color: #000000; /* 黑色字体 */
+      color: #000000; /* text color */
   }
   p {
       font-size: 18px;
-      color: #000000; /* 黑色字体 */
+      color: #000000; /* text color */
   }
 </style>
 
