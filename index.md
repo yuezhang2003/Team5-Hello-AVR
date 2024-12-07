@@ -130,15 +130,15 @@ Motor (Output 3):
 
 ### 3. <a id="requirements"></a>Requirement Specifications 
 
-1. Overview
+- Overview
 This software system is designed to enable the seamless operation of a smart bedroom automation system. It integrates features such as real-time clock display, flexible countdown timers, environmental data monitoring, automated MP3 playback, and wireless motor control. The software emphasizes modularity, ensuring efficient interaction between sensors, actuators, and the ATmega328PB microcontroller to provide a reliable and user-friendly experience.
 
-2. Users
+- Users
 The primary users are individuals seeking enhanced comfort and convenience in their bedroom environment. This includes students, professionals, and families looking to automate and optimize daily routines such as waking up, sleeping, and monitoring environmental conditions.
 
 #### 3.1 Software Requirements Specification (SRS)
 
-**3.1.1. Definition**
+*3.1.1. Definition*
 
 - Countdown Timer: A timer of ATmega328PB to manage time countdown and user interactions for timing adjustments.
 
@@ -152,7 +152,7 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 - ADC (Analog-to-Digital Converter): A software-controlled feature of the ATmega328PB used to convert analog signals from the pressure sensor into digital data for decision-making.
 
-**3.1.2. Functionality**
+*3.1.2. Functionality*
 
 - SRS 01 - The countdown timer shall decrement the time every second with a tolerance of ±0.5 seconds compared to the stopwatch in the mobile phone.
 
@@ -166,9 +166,9 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 - SRS 06 - The system shall debounce ADC values of pressure sensor over 5 or 10 consecutive samples to eliminate noise and stabilize input readings.
 
-#### **3.2 Hardware Requirements Specification (HRS)**
+#### 3.2 Hardware Requirements Specification (HRS)
 
-**3.2.1. Definition**
+*3.2.1. Definition*
 
 - ATmega328PB: The main microcontroller responsible for processing inputs and controlling outputs. It integrates features such as ADC, timers, and communication protocols (I2C, UART, and SPI). Another ATmega328PB is used to control the motor under the wireless control by Blynk app.
 
@@ -186,7 +186,7 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 - Motor: An actuator used to toggle switches, driven by PWM signals for direction control.
 
-**3.2.2. Functionality**
+*3.2.2. Functionality*
 
 - HRS 01 - A DHT11 temperature and humidity sensor shall be used for environmental monitoring. The sensor shall measure temperature range of 0-50°C (+/- 2°C accuracy) and humidity range of 20-90% (+/- 5% accura1), the changes in environment should be updated and visualized on LCD screen by 30 seconds.
 
@@ -234,17 +234,17 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 ### 5. <a id="conclusion"></a>Conclusion: Smart Bedroom Automation System
 
-**5.1. Project Overview Success:** Our smart bedroom automation system successfully integrated multiple components using two ATmega328PB microcontrollers to create a comprehensive solution for bedroom automation. The system effectively combines real-time clock functionality, environmental monitoring, pressure-sensitive music control, and wireless light switch automation, meeting all initial requirements specified in both our Software (SRS) and Hardware (HRS) specifications.
+*5.1. Project Overview Success:* Our smart bedroom automation system successfully integrated multiple components using two ATmega328PB microcontrollers to create a comprehensive solution for bedroom automation. The system effectively combines real-time clock functionality, environmental monitoring, pressure-sensitive music control, and wireless light switch automation, meeting all initial requirements specified in both our Software (SRS) and Hardware (HRS) specifications.
 
-**5.2. Main Project Motivation**
+*5.2. Main Project Motivation*
 
-5.2.1. **Wake-up Efficiency**: Many people struggle to get out of bed, often setting multiple alarms only to turn them off and fall back asleep. A smart system that detects when the user has truly woken up could help improve morning routines and reduce oversleeping.
+*5.2.1. Wake-up Efficiency*: Many people struggle to get out of bed, often setting multiple alarms only to turn them off and fall back asleep. A smart system that detects when the user has truly woken up could help improve morning routines and reduce oversleeping.
 
-5.2.2. **Convenient Lighting Control**: Single-switch lighting setups near bedroom doors are inconvenient, especially when moving back to bed in the dark, often resulting in accidental bumps and clutter disturbances. An automated, responsive lighting solution can make nighttime movement safer and easier.
+*5.2.2. Convenient Lighting Control*: Single-switch lighting setups near bedroom doors are inconvenient, especially when moving back to bed in the dark, often resulting in accidental bumps and clutter disturbances. An automated, responsive lighting solution can make nighttime movement safer and easier.
 
-**5.3. Key Technical Achievements:**
+*5.3. Key Technical Achievements:*
 
-5.3.1. **Multi-Protocol Integration:**
+*5.3.1. Multi-Protocol Integration:*
 
 - I2C communication for DS1307 RTC module with proper BCD conversion at 100kHz.
 - Custom one-wire protocol implementation for DHT11 sensor with timeout handling.
@@ -254,27 +254,27 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 - Different types of interrupt (e.g. pin change interrupt, timer interrupt) are used to ensure the system's performance.
 - Wireless communication via ESP32 for smooth remote control.
 
-5.3.2. **Technical Innovations for LCD Display and Timer Optimization:**
+*5.3.2. Technical Innovations for LCD Display and Timer Optimization:*
 
 - Implemented carry propagation logic across time units
 - Reduced LCD refresh operations to only changed digits
 - Created modular update functions for each digit position
 - state machine is used for better performance.
 
-**5.4. Challenges:**
+*5.4. Challenges:*
 
 - Although we have completed all parts of the project, there were significant challenges during the development process, particularly in the final stages of integrating all the modules. This presented several difficulties, such making sure the ATmega328PB had enough pin assignments that did not clash. Functionality conflicts were a possibility because of the limited number of pins and the overlapping requirements from several modules. Any errors made at this point might have caused the system as a whole to be delayed or compromised.
 - One specific risk we encountered was during the UART communication with the MP3 module. The wrong pin diagram led to significant debugging delays and posed a risk to our timeline.
 - The treatment can be to let teammate know ahead of time when specific pins, like ADC pins, will be utilized. Because it will be simpler to replace a typical GPIO pin. Building the code framework beforehand will save a significant amount of time while working with modularized code. Before a lot of code is shown, make sure the basic functioning of the hardware connections is accurate.
 - Another is the LCD refresh speed. Once the data is updated, the entire LCD screen needs to be updated. This seriously affects the usability of the system and hence innovative solutions are proposed.
 
-**5.5. Project Management Insights:**
+*5.5. Project Management Insights:*
 
 - Recognized the importance of modular code structure
 - Learned effective state machine implementation
 - Developed strategies for debugging multi-protocol systems
 
-**5.6. Next Steps:**
+*5.6. Next Steps:*
 
 To build the smart room system more intelligent and high integration.
 
@@ -298,7 +298,7 @@ To build the smart room system more intelligent and high integration.
 - Improve sensors' data acquisition time and transimitting time for high efficiency
 - Add more sophisticated debouncing algorithms
 
-**5.7. Takeaways:**
+*5.7. Takeaways:*
 
 This project provided valuable learning experiences in:
 
