@@ -25,8 +25,7 @@ title: Welcome to Team5-Hello-AVR's Report
 **Description of hardware:** ATmega328PB, ESP32, DFPlayer Mini MP3, DHT11 (Temperature & Humidity Sensor), Pressure sensor, DS1307 (RTC), SG92 motor, LCD, Button, Speaker
 
 
-### <a id="videos"></a>Videos
-### 1. Video
+### 1. <a id="videos"></a>Videos
 
 [Final Demo Video](https://drive.google.com/file/d/1vn5B683b3LDdRKbWDvhb38bbrMS9ZKrc/view?usp=sharing)
 
