@@ -46,6 +46,7 @@
 
 **Description of hardware:** ATmega328PB, ESP32, DFPlayer Mini MP3, DHT11 (Temperature & Humidity Sensor), Pressure sensor, DS1307 (RTC), SG92 motor, LCD, Button, Speaker
 
+<hr style="border: 2px solid #00796b; margin: 20px 0;">
 
 ### 1. <a id="videos"></a>Videos
 
