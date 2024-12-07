@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to Team5's Report
 ---
 
 # Hello-AVR-Team5 - Smart Room System
