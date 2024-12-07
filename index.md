@@ -75,7 +75,7 @@
 
 ### 2. <a id="images"></a>Images
 
-2.1.Components:
+*2.1.Components:*
 
 Atmega328PB:
 
@@ -124,7 +124,7 @@ Motor (Output 3):
 
 ![motor](/images/motor.jpg)
 
-2.2.Module Connection:
+*2.2.Module Connection:*
 
 ![module](/images/connection.jpg)
 
