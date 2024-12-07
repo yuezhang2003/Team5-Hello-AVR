@@ -42,7 +42,7 @@
 
 **Team Members:** Xinmi Wang, Yue Zhang
 
-**GitHub Repository URL:** [GitHub Repository](https://github.com/upenn-embedded/final-project-hello-avr.git)
+**GitHub Repository URL:** [https://github.com/upenn-embedded/final-project-hello-avr.git](https://github.com/upenn-embedded/final-project-hello-avr.git)
 
 **Description of hardware:** ATmega328PB, ESP32, DFPlayer Mini MP3, DHT11 (Temperature & Humidity Sensor), Pressure sensor, DS1307 (RTC), SG92 motor, LCD, Button, Speaker
 
