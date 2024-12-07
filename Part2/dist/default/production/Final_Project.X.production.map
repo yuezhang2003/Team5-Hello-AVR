@@ -1,0 +1,921 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              build/default/production/_ext/18181191/final_pro.o (__do_clear_bss)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              build/default/production/_ext/18181191/final_pro.o (__addsf3)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              build/default/production/_ext/18181191/final_pro.o (__fixsfsi)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o) (__fixunssfsi)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              build/default/production/_ext/18181191/final_pro.o (__floatsisf)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              build/default/production/_ext/18181191/final_pro.o (__mulsf3)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                              D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o (exit)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o) (_Exit)
+d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o) (_exit)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800100 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+bootrow          0x0000000000860000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/_ext/18181191/uart.o
+LOAD build/default/production/_ext/18181191/final_pro.o
+START GROUP
+END GROUP
+START GROUP
+LOAD d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5\libatmega328pb.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __BOOTROW_REGION_LENGTH__ = DEFINED (__BOOTROW_REGION_LENGTH__)?__BOOTROW_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x10e
+ *(.vectors)
+ .vectors       0x0000000000000000       0xb4 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x00000000000000b4        0x5 data_init
+                0x00000000000000ba                . = ALIGN (0x2)
+ *fill*         0x00000000000000b9        0x1 
+                0x00000000000000ba                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000000ba        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000000ba                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x00000000000000ba                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000ba                __ctors_start = .
+ *(.ctors)
+                0x00000000000000ba                __ctors_end = .
+                0x00000000000000ba                __dtors_start = .
+ *(.dtors)
+                0x00000000000000ba                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000ba        0x0 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+                0x00000000000000ba                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000ba        0xc D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000c6       0x3c d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000000000000c6                __do_copy_data
+                0x00000000000000f4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000102        0x8 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+ *(.init9)
+                0x000000000000010a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000000000000010a        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x000000000000010a                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000000000000010a        0x4 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000000000000010e                _etext = .
+
+.data           0x0000000000800100        0x0 load address 0x000000000000010e
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800100                . = ALIGN (0x2)
+                0x0000000000800100                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800100        0x0
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x000000000000010e                __data_load_start = LOADADDR (.data)
+                0x000000000000010e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800100        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800100                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.bootrow
+ *(.bootrow*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/production/_ext/18181191/uart.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/production/_ext/18181191/final_pro.o
+ .comment       0x000000000000002f       0x2c d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005b       0x2d d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+
+.stack.descriptors.hdr
+                0x0000000000000000       0xee
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .stack.descriptors.hdr
+                0x0000000000000054        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .stack.descriptors.hdr
+                0x0000000000000062        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .stack.descriptors.hdr
+                0x0000000000000070        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .stack.descriptors.hdr
+                0x000000000000007e        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .stack.descriptors.hdr
+                0x000000000000008c        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .stack.descriptors.hdr
+                0x000000000000009a        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .stack.descriptors.hdr
+                0x00000000000000a8        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .stack.descriptors.hdr
+                0x00000000000000b6        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .stack.descriptors.hdr
+                0x00000000000000c4        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+ .stack.descriptors.hdr
+                0x00000000000000d2        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+ .stack.descriptors.hdr
+                0x00000000000000e0        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.stack.descriptors
+                0x0000000000000000      0x25b
+ .stack.descriptors
+                0x0000000000000000       0x2c d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .stack.descriptors
+                0x000000000000002c       0x17 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .stack.descriptors
+                0x0000000000000043       0x17 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .stack.descriptors
+                0x000000000000005a       0x1a d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .stack.descriptors
+                0x0000000000000074       0x34 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .stack.descriptors
+                0x00000000000000a8       0x16 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .stack.descriptors
+                0x00000000000000be       0x16 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .stack.descriptors
+                0x00000000000000d4       0x17 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .stack.descriptors
+                0x00000000000000eb       0x17 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .stack.descriptors
+                0x0000000000000102       0x18 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .stack.descriptors
+                0x000000000000011a       0x32 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .stack.descriptors
+                0x000000000000014c       0x2f d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .stack.descriptors
+                0x000000000000017b       0x16 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .stack.descriptors
+                0x0000000000000191       0x31 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .stack.descriptors
+                0x00000000000001c2       0x73 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+ .stack.descriptors
+                0x0000000000000235       0x13 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+ .stack.descriptors
+                0x0000000000000248       0x13 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x78
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x30 build/default/production/_ext/18181191/uart.o
+ .debug_aranges
+                0x0000000000000030       0x48 build/default/production/_ext/18181191/final_pro.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x1200
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x8ea D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+ .debug_info    0x00000000000008ea      0x2d9 build/default/production/_ext/18181191/uart.o
+ .debug_info    0x0000000000000bc3      0x63d build/default/production/_ext/18181191/final_pro.o
+
+.debug_abbrev   0x0000000000000000      0xa9e
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x86e D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+ .debug_abbrev  0x000000000000086e       0x78 build/default/production/_ext/18181191/uart.o
+ .debug_abbrev  0x00000000000008e6      0x1b8 build/default/production/_ext/18181191/final_pro.o
+
+.debug_line     0x0000000000000000      0x4c5
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x1a6 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+ .debug_line    0x00000000000001a6      0x111 build/default/production/_ext/18181191/uart.o
+ .debug_line    0x00000000000002b7      0x20e build/default/production/_ext/18181191/final_pro.o
+
+.debug_frame    0x0000000000000000       0xd8
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x50 build/default/production/_ext/18181191/uart.o
+ .debug_frame   0x0000000000000050       0x88 build/default/production/_ext/18181191/final_pro.o
+
+.debug_str      0x0000000000000000      0x325
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x318 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+ .debug_str     0x0000000000000318        0x0 build/default/production/_ext/18181191/uart.o
+ .debug_str     0x0000000000000318        0xd build/default/production/_ext/18181191/final_pro.o
+
+.debug_loc      0x0000000000000000      0x349
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x78 build/default/production/_ext/18181191/uart.o
+ .debug_loc     0x0000000000000078      0x2d1 build/default/production/_ext/18181191/final_pro.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x58
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 build/default/production/_ext/18181191/uart.o
+ .debug_ranges  0x0000000000000020       0x38 build/default/production/_ext/18181191/final_pro.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/Final_Project.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.data%z1        0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+
+.bss%z2         0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+
+.text%z3        0x0000000000000000        0x0
+ .text          0x0000000000000000        0x0 build/default/production/_ext/18181191/uart.o
+
+.data%z4        0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 build/default/production/_ext/18181191/uart.o
+
+.bss%z5         0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 build/default/production/_ext/18181191/uart.o
+
+.text%z6        0x0000000000000000        0x0
+ .text          0x0000000000000000        0x0 build/default/production/_ext/18181191/final_pro.o
+
+.data%z7        0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 build/default/production/_ext/18181191/final_pro.o
+
+.bss%z8         0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 build/default/production/_ext/18181191/final_pro.o
+
+.bss.last_state
+                0x0000000000800100        0x1
+ .bss.last_state
+                0x0000000000800100        0x1 build/default/production/_ext/18181191/final_pro.o
+                0x0000000000800100                last_state
+
+.text%z9        0x0000000000000000        0x0
+ .text          0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.data%z10       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.bss%z11        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.text.libgcc.mul%z12
+                0x0000000000000000        0x0
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.text.libgcc.div%z13
+                0x0000000000000000        0x0
+ .text.libgcc.div
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.text.libgcc%z14
+                0x0000000000000000        0x0
+ .text.libgcc   0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.text.libgcc.prologue%z15
+                0x0000000000000000        0x0
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.text.libgcc.builtins%z16
+                0x0000000000000000        0x0
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.text.libgcc.fmul%z17
+                0x0000000000000000        0x0
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.text.libgcc.fixed%z18
+                0x0000000000000000        0x0
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+.data%z19       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+
+.bss%z20        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+
+.data%z21       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+
+.bss%z22        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+
+.data%z23       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+
+.bss%z24        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+
+.data%z25       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+
+.bss%z26        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+
+.data%z27       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+
+.bss%z28        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+
+.data%z29       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+
+.bss%z30        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+
+.data%z31       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+
+.bss%z32        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+
+.data%z33       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+
+.bss%z34        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+
+.data%z35       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+
+.bss%z36        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+
+.data%z37       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+
+.bss%z38        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+
+.data%z39       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+
+.bss%z40        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+
+.data%z41       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+
+.bss%z42        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+
+.data%z43       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+
+.bss%z44        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+
+.data%z45       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+
+.bss%z46        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+
+.text%z47       0x0000000000000000        0x0
+ .text          0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+
+.data%z48       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+
+.bss%z49        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+
+.text%z50       0x0000000000000000        0x0
+ .text          0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+
+.data%z51       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+
+.bss%z52        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+
+.text%z53       0x0000000000000000        0x0
+ .text          0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.data%z54       0x0000000000800100        0x0
+ .data          0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.bss%z55        0x0000000000800100        0x0
+ .bss           0x0000000000800100        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.text.libgcc.mul%z56
+                0x0000000000000000        0x0
+ .text.libgcc.mul
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.text.libgcc.div%z57
+                0x0000000000000000        0x0
+ .text.libgcc.div
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.text.libgcc%z58
+                0x0000000000000000        0x0
+ .text.libgcc   0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.text.libgcc.prologue%z59
+                0x0000000000000000        0x0
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.text.libgcc.builtins%z60
+                0x0000000000000000        0x0
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.text.libgcc.fmul%z61
+                0x0000000000000000        0x0
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.text.libgcc.fixed%z62
+                0x0000000000000000        0x0
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+
+.text           0x000000000000010e       0xd4
+ .text          0x000000000000010e       0xd4 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000000000000010e                __mulsf3x
+                0x0000000000000134                __mulsf3_pse
+
+.text           0x00000000000001e2       0xce
+ .text          0x00000000000001e2       0xce d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00000000000001e2                __addsf3x
+
+.text.__vector_3
+                0x00000000000002b0       0xb0
+ .text.__vector_3
+                0x00000000000002b0       0xb0 build/default/production/_ext/18181191/final_pro.o
+                0x00000000000002b0                __vector_3
+
+.text           0x0000000000000360       0x7a
+ .text          0x0000000000000360       0x7a d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x0000000000000360                __floatunsisf
+                0x0000000000000364                __floatsisf
+
+.text           0x00000000000003da       0x5e
+ .text          0x00000000000003da       0x5e d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00000000000003da                __fixunssfsi
+
+.text           0x0000000000000438       0x44
+ .text          0x0000000000000438       0x44 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000000000000438                __fp_split3
+                0x0000000000000448                __fp_splitA
+
+.text.motor     0x000000000000047c       0x32
+ .text.motor    0x000000000000047c       0x32 build/default/production/_ext/18181191/final_pro.o
+                0x000000000000047c                motor
+
+.text.timer1    0x00000000000004ae       0x2e
+ .text.timer1   0x00000000000004ae       0x2e build/default/production/_ext/18181191/final_pro.o
+                0x00000000000004ae                timer1
+
+.text           0x00000000000004dc       0x22
+ .text          0x00000000000004dc       0x22 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000000000004dc                __fp_round
+
+.text.UART_init
+                0x00000000000004fe       0x1e
+ .text.UART_init
+                0x00000000000004fe       0x1e build/default/production/_ext/18181191/uart.o
+                0x00000000000004fe                UART_init
+
+.text.UART_putstring
+                0x000000000000051c       0x1e
+ .text.UART_putstring
+                0x000000000000051c       0x1e build/default/production/_ext/18181191/uart.o
+                0x000000000000051c                UART_putstring
+
+.text.ESP32pin_int
+                0x000000000000053a       0x1e
+ .text.ESP32pin_int
+                0x000000000000053a       0x1e build/default/production/_ext/18181191/final_pro.o
+                0x000000000000053a                ESP32pin_int
+
+.text.exit      0x0000000000000558       0x16
+ .text.exit     0x0000000000000558       0x16 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x0000000000000558                exit
+
+.text.UART_send
+                0x000000000000056e       0x10
+ .text.UART_send
+                0x000000000000056e       0x10 build/default/production/_ext/18181191/uart.o
+                0x000000000000056e                UART_send
+
+.text           0x000000000000057e        0xe
+ .text          0x000000000000057e        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x000000000000057e                __subsf3
+                0x0000000000000580                __addsf3
+
+.text           0x000000000000058c        0xe
+ .text          0x000000000000058c        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x000000000000058c                __fixsfsi
+
+.text           0x000000000000059a        0xe
+ .text          0x000000000000059a        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x000000000000059a                __fp_pscA
+
+.text           0x00000000000005a8        0xe
+ .text          0x00000000000005a8        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00000000000005a8                __fp_pscB
+
+.text           0x00000000000005b6        0xe
+ .text          0x00000000000005b6        0xe d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00000000000005b6                __fp_zero
+                0x00000000000005b8                __fp_szero
+
+.text           0x00000000000005c4        0xc
+ .text          0x00000000000005c4        0xc d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00000000000005c4                __fp_inf
+
+.text.initial   0x00000000000005d0        0xa
+ .text.initial  0x00000000000005d0        0xa build/default/production/_ext/18181191/final_pro.o
+                0x00000000000005d0                initial
+
+.text.main      0x00000000000005da        0x8
+ .text.main     0x00000000000005da        0x8 build/default/production/_ext/18181191/final_pro.o
+                0x00000000000005da                main
+
+.text           0x00000000000005e2        0x8
+ .text          0x00000000000005e2        0x8 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00000000000005e2                __mulsf3
+
+.text           0x00000000000005ea        0x6
+ .text          0x00000000000005ea        0x6 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000000000005ea                __fp_nan
+
+.text           0x00000000000005f0        0x4
+ .text          0x00000000000005f0        0x4 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega328pb.o
+                0x00000000000005f0                __vector_38
+                0x00000000000005f0                __vector_22
+                0x00000000000005f0                __vector_28
+                0x00000000000005f0                __vector_1
+                0x00000000000005f0                __vector_32
+                0x00000000000005f0                __vector_34
+                0x00000000000005f0                __vector_24
+                0x00000000000005f0                __vector_12
+                0x00000000000005f0                __bad_interrupt
+                0x00000000000005f0                __vector_6
+                0x00000000000005f0                __vector_31
+                0x00000000000005f0                __vector_35
+                0x00000000000005f0                __vector_39
+                0x00000000000005f0                __vector_23
+                0x00000000000005f0                __vector_30
+                0x00000000000005f0                __vector_25
+                0x00000000000005f0                __vector_11
+                0x00000000000005f0                __vector_13
+                0x00000000000005f0                __vector_17
+                0x00000000000005f0                __vector_19
+                0x00000000000005f0                __vector_7
+                0x00000000000005f0                __vector_41
+                0x00000000000005f0                __vector_43
+                0x00000000000005f0                __vector_27
+                0x00000000000005f0                __vector_5
+                0x00000000000005f0                __vector_33
+                0x00000000000005f0                __vector_37
+                0x00000000000005f0                __vector_4
+                0x00000000000005f0                __vector_44
+                0x00000000000005f0                __vector_9
+                0x00000000000005f0                __vector_2
+                0x00000000000005f0                __vector_21
+                0x00000000000005f0                __vector_15
+                0x00000000000005f0                __vector_36
+                0x00000000000005f0                __vector_29
+                0x00000000000005f0                __vector_40
+                0x00000000000005f0                __vector_8
+                0x00000000000005f0                __vector_26
+                0x00000000000005f0                __vector_14
+                0x00000000000005f0                __vector_10
+                0x00000000000005f0                __vector_16
+                0x00000000000005f0                __vector_18
+                0x00000000000005f0                __vector_20
+                0x00000000000005f0                __vector_42
+
+.text._Exit     0x00000000000005f4        0x4
+ .text._Exit    0x00000000000005f4        0x4 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+                0x00000000000005f4                _Exit
+
+.text.__dummy_fini
+                0x00000000000005f8        0x2
+ .text.__dummy_fini
+                0x00000000000005f8        0x2 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x00000000000005f8                _fini
+
+.text.__dummy_funcs_on_exit
+                0x00000000000005fa        0x2
+ .text.__dummy_funcs_on_exit
+                0x00000000000005fa        0x2 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x00000000000005fa                __funcs_on_exit
+
+.text.__dummy_simulator_exit
+                0x00000000000005fc        0x2
+ .text.__dummy_simulator_exit
+                0x00000000000005fc        0x2 d:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x00000000000005fc                __simulator_exit
