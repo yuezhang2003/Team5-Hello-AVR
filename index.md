@@ -166,7 +166,7 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 - SRS 06 - The system shall debounce ADC values of pressure sensor over 5 or 10 consecutive samples to eliminate noise and stabilize input readings.
 
-**#### 3.2 Hardware Requirements Specification (HRS)**
+#### **3.2 Hardware Requirements Specification (HRS)**
 
 **3.2.1. Definition**
 
