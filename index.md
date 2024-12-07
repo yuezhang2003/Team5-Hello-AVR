@@ -1,7 +1,8 @@
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; text-align: center;">
-    <h1 style="color: #333;">Smart Room System</h1>
-    <p style="color: #666;">Team 5: Xinmi Wang & Yue Zhang</p>
+<div style="background-color: #e0f7fa; padding: 30px; border-radius: 8px; text-align: center;">
+    <h1 style="color: #00796b; font-size: 36px;">Smart Room System</h1>
+    <p style="color: #004d40; font-size: 20px;">Team 5: Xinmi Wang & Yue Zhang</p>
 </div>
+
 
 <nav style="background-color: #444; color: white; padding: 10px; text-align: center;">
     <a href="#videos" style="color: white; text-decoration: none; margin: 0 10px;">Videos</a>
