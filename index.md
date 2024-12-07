@@ -1,6 +1,6 @@
 <style>
   body {
-      background-color: #ffe4e1; /* 浅粉色背景 */
+      background-color: #b0e4e2; /* 浅粉色背景 */
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 0;
@@ -23,12 +23,6 @@
       color: #000000; /* 黑色字体 */
   }
 </style>
-
-<div class="content">
-    <h1>Smart Room System</h1>
-    <p>Team 5: Xinmi Wang & Yue Zhang</p>
-</div>
-
 
 <div style="background-color: #e0f7fa; padding: 30px; border-radius: 8px; text-align: center;">
     <h1 style="color: #00796b; font-size: 36px;">Smart Room System</h1>
