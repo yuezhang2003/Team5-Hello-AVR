@@ -11,9 +11,6 @@
     <a href="#conclusion" style="color: white; text-decoration: none; margin: 0 10px;">Conclusion</a>
 </nav>
 
----
-title: Welcome to Team5-Hello-AVR's Report
----
 ## Final Project Report: Smart Room System
 
 **Team Number:** 5
