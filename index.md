@@ -1,13 +1,13 @@
 <style>
   body {
-      background-color: #f0f8ff; /* 浅蓝色背景 */
+      background-color: #f0f8ff; 
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 0;
       padding: 0;
   }
   .content {
-      background-color: #ffffff; /* 白色内容区域 */
+      background-color: #ffffff; 
       max-width: 900px;
       margin: 20px auto;
       padding: 20px;
