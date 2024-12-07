@@ -1,11 +1,5 @@
 
 
-<div style="background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <h2>Components</h2>
-    <img src="/images/ATmega.jpg" alt="ATmega328PB" style="max-width: 100%; border-radius: 8px;">
-    <p>The ATmega328PB is the main microcontroller used in this project...</p>
-</div>
-
 
 <nav style="background-color: #444; color: white; padding: 10px; text-align: center;">
     <a href="#videos" style="color: white; text-decoration: none; margin: 0 10px;">Videos</a>
