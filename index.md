@@ -1,3 +1,9 @@
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); text-align: center;">
+    <h1 style="color: #333;">Smart Room Automation</h1>
+    <p style="color: #666;">Team 5: Xinmi Wang & Yue Zhang</p>
+</div>
+
+
 ---
 title: Welcome to Team5's Report
 ---
