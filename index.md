@@ -11,6 +11,49 @@
     <a href="#conclusion" style="color: white; text-decoration: none; margin: 0 10px;">Conclusion</a>
 </nav>
 
+<style>
+  body {
+      background-color: #f9f9f9;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+  }
+  header {
+      background: #333;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+  }
+  .container {
+      margin: 20px auto;
+      padding: 20px;
+      max-width: 800px;
+      background: white;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+  }
+  footer {
+      text-align: center;
+      margin-top: 20px;
+      padding: 10px;
+      background: #333;
+      color: white;
+  }
+</style>
+
+
+<header>
+    <h1>Smart Room Automation</h1>
+    <p>Team 5: Xinmi Wang & Yue Zhang</p>
+</header>
+<div class="container">
+    <h2>Final Project Report</h2>
+    <p>Welcome to our smart bedroom automation system project!</p>
+</div>
+<footer>
+    <p>&copy; 2024 Hello-AVR-Team5</p>
+</footer>
+
+
 ---
 title: Welcome to Team5-Hello-AVR's Report
 ---
