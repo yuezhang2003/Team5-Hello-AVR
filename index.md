@@ -278,7 +278,7 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 To build the smart room system more intelligent and high integration.
 
-5.6.1. **Hardware Improvements**
+5.6.1. *Hardware Improvements*
 
 - Using 3D box for better hardware intergration
 - Add multiple pressure sensors for improved pressure detection
@@ -291,7 +291,7 @@ To build the smart room system more intelligent and high integration.
   - Add playlist management capabilities
   - Implement volume control through wireless interface
 
-5.6.2. **Software Enhancements**
+5.6.2. *Software Enhancements*
 
 - Implement power optimization through sleep modes
 - Enhance wireless communication reliability
