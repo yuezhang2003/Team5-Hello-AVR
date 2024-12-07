@@ -74,6 +74,8 @@
 
 *This is code for wireless motor control: [part2Code](/Part2/final_pro.c)*
 
+<hr style="border: 2px solid #00796b; margin: 20px 0;">
+
 ### 2. <a id="images"></a>Images
 
 *2.1.Components:*
@@ -128,6 +130,8 @@ Motor (Output 3):
 *2.2.Module Connection:*
 
 ![module](/images/connection.jpg)
+
+<hr style="border: 2px solid #00796b; margin: 20px 0;">
 
 ### 3. <a id="requirements"></a>Requirement Specifications 
 
@@ -203,6 +207,8 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 
 - HRS 06 - The esp32 feather should be able to allow the app to wirelessly control the spinnining state of the servo motor with acceptable delay.
 
+<hr style="border: 2px solid #00796b; margin: 20px 0;">
+
 ### 4. <a id="results"></a>Results
 
 ### 4.1 Software Requirements Specification (SRS) Results
@@ -232,6 +238,10 @@ The primary users are individuals seeking enhanced comfort and convenience in th
 - HRS 05 - The RTC module display the current time in Philadelphia on the LCD screen with 4-seconds faster than the online time.
 
 - HRS 07 - The ESP32 feather allows the app to wirelessly control the spinnining state of the servo motor with 1s delay.
+
+
+<hr style="border: 2px solid #00796b; margin: 20px 0;">
+
 
 ### 5. <a id="conclusion"></a>Conclusion: Smart Bedroom Automation System
 
